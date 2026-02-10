@@ -1,0 +1,3 @@
+[submodule "sorting_lib"]
+	path = sorting_lib
+	url = https://github.com/doshironok/sorting-algorithms-lib.git
